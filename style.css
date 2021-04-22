@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#wrapper {
+    margin: 0px auto 20px;
+    background-color: #efefef;
+    width: 1000px;
+}
+
+img {
+    max-width: 200px;
+    margin: 20px 0px 0px;
+    border: 2px solid black;
+}
+
+#top-row {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#bottom-row{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button {
+    background-color: seagreen;
+    color: white;
+    padding: 10px 30px;
+    margin: 20px 0px 20px 37px;
+}
